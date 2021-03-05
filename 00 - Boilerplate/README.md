@@ -1,6 +1,6 @@
 # Phaser 3 TypeScript Project Template
 
-Basic template for starting a phaser 3 project with typescript
+Create a class for load assets
 
 ```BASH
 npm install
